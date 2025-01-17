@@ -1,5 +1,11 @@
 # Mario Lite
 
+- Anthony Cheng
+- Jamal Bankole
+- Michael Ge
+- Sizhe Liu
+- Brando Morley
+
 ## Description
 This app will be a replica of Mario, or the lite version of the early Mario Games. The game will
 be designed with an initial Welcome Screen, a Menu for navigation, as well of several stages to
