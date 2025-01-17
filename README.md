@@ -6,6 +6,9 @@
 - Sizhe Liu
 - Brando Morley
 
+#  Video
+https://drive.google.com/drive/u/3/folders/1BvLLekGOmqhdDKWoAbUvYhSXoPApM_Po
+
 ## Description
 This app will be a replica of Mario, or the lite version of the early Mario Games. The game will
 be designed with an initial Welcome Screen, a Menu for navigation, as well of several stages to
